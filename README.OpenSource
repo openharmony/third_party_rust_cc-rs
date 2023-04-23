@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "cc",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.0.79",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/rust-lang/cc-rs",
+    "Description": "A build-time dependency for Cargo build scripts to assist in invoking the native C compiler to compile native C code into a static archive to be linked into Rust code."
+  }
+]
